@@ -9,6 +9,10 @@
   +#grid {
     margin-top: rem(-80px);
   }
+  
+  a {
+    text-decoration: none;
+  }
 
   .gradient,
   .pixels {
@@ -66,10 +70,6 @@
       @include media(">=sm") {
         font-size: rem(26px);
       }
-    }
-    
-    a {
-      text-decoration: none;
     }
 
     .buttons {
