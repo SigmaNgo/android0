@@ -34,7 +34,9 @@ layout: main
                         {{ featured.title }}
                     </h1>
                 </a>
-                <p class="description">{{ featured.subtitle }}</p>
+		<a href="{{ featured.url | prepend: site.baseurl }}">
+                    <p class="description">{{ featured.subtitle }}</p>
+                </a>
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
                         <svg><use xlink:href="#icon-read"></use></svg>
