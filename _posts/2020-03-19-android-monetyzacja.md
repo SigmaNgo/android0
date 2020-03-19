@@ -16,7 +16,9 @@ author: romanmokrzan
 paginate: true
 ---
 Na początek zacytuję pewnego pana którego być może znasz, [Steve'a Jobsa](https://en.wikiquote.org/wiki/Steve_Jobs). Nawet nie zacytuję ale wręcz wyrwę z kontekstu:
+
 > (...) It's not about money.
+
 Nie chodzi o pieniądze... **powyżej pewnej kwoty**. Poniżej tej kwoty chodzi jednak o pieniądze.
 Zanim zaczniesz pisać kod pomyśl jak go spieniężyć. A o to coraz trudniej ponieważ [przeciętny Amerykanin instaluje na swoim telefonie średnio zero apek miesięcznie](https://blog.branch.io/no-americans-do-not-install-an-average-of-zero-apps-per-month/). Nie zapominajmy przy tym, że pies i jego pan mają średnio po 3 nogi.
 ## Nie monetyzuj wcale
