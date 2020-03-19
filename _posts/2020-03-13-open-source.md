@@ -4,14 +4,14 @@ layout: post
 title: Ucz się podglądając innych
 subtitle: Gdzie znaleźć kod źródłowy istniejących apek na Androida
 description: Lista apek z udostępnionym kodem źródłowym
-image: https://res.cloudinary.com/romanmokrzan/image/upload/v1584609854/plny_duzy_scuuma.jpg
+image: http://www.quickmeme.com/img/56/56191187e050f357d60b1379538189626318050ed48b2227a3f5b5de76eb8a07.jpg
 optimized_image: http://www.quickmeme.com/img/56/56191187e050f357d60b1379538189626318050ed48b2227a3f5b5de76eb8a07.jpg
 category: Nauka
 tags:
   - open source
   - kod źródłowy
   - github
-author: Roman Mokrzan
+author: romanmokrzan
 ---
 
 Jak się uczyć Androida? No na przykład patrząc w kod innych deweloperów. No dobra a skąd brać ten kod? No na przykład można przeszukać internet, gihuba, gitlaba, Google Play pod kątem apek które mają udostępniony kod źródłowy.
