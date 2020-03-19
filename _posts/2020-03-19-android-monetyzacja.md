@@ -38,4 +38,4 @@ Zakupy wewnątrz aplikacji
 
 Subskrypcje
 
-Sponsoring
+## Sponsoring
