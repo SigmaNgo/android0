@@ -5,13 +5,13 @@ title: Jak monetyzować aplikacje ?
 subtitle: Zanim zaczniesz coś robić zastanów się po co to robisz
 description: >-
   Prowizje od sprzedaży, bezpłatna apka z reklamami, freemium, płatna apka, zakupy wewnątrz aplikacji, subskrypcje, sponsoring
-image: >-
-  https://res.cloudinary.com/romanmokrzan/image/upload/v1584568822/manetyzacja_zrjqiu.png
-category: travel
+image: https://res.cloudinary.com/romanmokrzan/image/upload/v1584606392/plny_duzy_oafzhp.jpg
+optimized_image: https://res.cloudinary.com/romanmokrzan/image/upload/v1584606392/plny_maly_wrco45.jpg
+category: produkcja
 tags:
   - finanse
-  - travel
-  - adventure
+  - android
+  - monetyzacja
 author: romanmokrzan
 paginate: true
 ---
