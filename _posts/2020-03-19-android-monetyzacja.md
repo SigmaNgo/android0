@@ -28,7 +28,7 @@ Zanim zaczniesz pomyśl jak to spieniężyć
 
 ## Prowizje od sprzedaży
 
-Bezpłatna apka (z reklamami)
+## Bezpłatna apka (z reklamami)
 
 Freemium
 
