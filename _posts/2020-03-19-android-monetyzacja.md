@@ -24,18 +24,18 @@ Nie chodzi o pieniądze... **powyżej pewnej kwoty**. Poniżej tej kwoty chodzi 
 
 Zanim zaczniesz pomyśl jak to spieniężyć
 
-## Nie monetyzuj wcale
+Nie monetyzuj wcale
 
-## Prowizje od sprzedaży
+Prowizje od sprzedaży
 
-## Bezpłatna apka (z reklamami)
+Bezpłatna apka (z reklamami)
 
-## Freemium
+Freemium
 
-## Płatna apka
+Płatna apka
 
-## Zakupy wewnątrz aplikacji
+Zakupy wewnątrz aplikacji
 
-## Subskrypcje
+Subskrypcje
 
-## Sponsoring
+Sponsoring
