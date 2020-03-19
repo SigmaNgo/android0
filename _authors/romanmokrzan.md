@@ -7,6 +7,6 @@ position: Chief Editor
 bio: Indie Android developer.
 github_username: Romamok
 facebook_username: roman.mokrzan.1
-linkedin_username: sigma-foundation
+linkedin_username: company/sigma-foundation
 ---
 
