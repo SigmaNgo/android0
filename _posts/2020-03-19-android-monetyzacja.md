@@ -6,7 +6,7 @@ subtitle: Zanim zaczniesz coś robić zastanów się po co to robisz
 description: >-
   Prowizje od sprzedaży, bezpłatna apka z reklamami, freemium, płatna apka, zakupy wewnątrz aplikacji, subskrypcje, sponsoring
 image: https://res.cloudinary.com/romanmokrzan/image/upload/v1584609854/plny_duzy_scuuma.jpg
-optimized_image: https://res.cloudinary.com/romanmokrzan/image/upload/v1584606392/plny_maly_wrco45.jpg
+optimized_image: https://res.cloudinary.com/romanmokrzan/image/upload/v1584647273/plny_maly_yvxvqa.jpg
 category: produkcja
 tags:
   - finanse
