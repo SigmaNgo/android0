@@ -26,7 +26,7 @@ Zanim zaczniesz pomyśl jak to spieniężyć
 
 ## Nie monetyzuj wcale
 
-Prowizje od sprzedaży
+## Prowizje od sprzedaży
 
 Bezpłatna apka (z reklamami)
 
