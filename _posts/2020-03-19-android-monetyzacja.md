@@ -24,7 +24,7 @@ Nie chodzi o pieniądze... **powyżej pewnej kwoty**. Poniżej tej kwoty chodzi 
 
 Zanim zaczniesz pomyśl jak to spieniężyć
 
-Nie monetyzuj wcale
+## Nie monetyzuj wcale
 
 Prowizje od sprzedaży
 
