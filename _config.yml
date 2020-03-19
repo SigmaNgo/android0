@@ -1,6 +1,6 @@
 # Site Settings
-name: Cośtam
-title: Janiemogę | Co nie miara
+name: Android od 0
+title: Nauka programowania na Android od zera | sigma.ngo
 description: Tu se zmieniłem opis / description.
 tags:
   - blog
@@ -8,7 +8,7 @@ tags:
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: info@sigma.ngo
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -24,11 +24,11 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+github_username: SigmaNgo
+facebook_username: groups/AndroidOd0
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
 medium_username: medium_username
 
 
