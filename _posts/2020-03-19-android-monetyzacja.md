@@ -15,6 +15,7 @@ tags:
 author: romanmokrzan
 paginate: true
 ---
+
 Na początek zacytuję pewnego pana którego być może znacie, [Steve'a Jobsa](https://en.wikiquote.org/wiki/Steve_Jobs). Nawet nie zacytuję ale wręcz wyrwę z kontekstu:
 
 > (...) It's not about money.
