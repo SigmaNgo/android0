@@ -39,3 +39,4 @@ Zakupy wewnątrz aplikacji
 Subskrypcje
 
 ## Sponsoring
+coś tu wstawiam no i co to pomoże
