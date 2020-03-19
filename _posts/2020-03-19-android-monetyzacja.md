@@ -15,6 +15,8 @@ tags:
 author: romanmokrzan
 paginate: true
 ---
+Opublikowano także na grupach: [AndroidOd0](https://www.facebook.com/groups/AndroidOd0/), [157790704649699](https://www.facebook.com/groups/157790704649699/), [124106144823163](https://www.facebook.com/groups/124106144823163/).
+
 Na początek zacytuję pewnego pana którego być może znasz, [Steve'a Jobsa](https://en.wikiquote.org/wiki/Steve_Jobs). Nawet nie zacytuję ale wręcz wyrwę z kontekstu:
 
 > (...) It's not about money.
