@@ -1,15 +1,12 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+photo: /assets/img/uploads/roman.jpg
+name: romanmokrzan
+display_name: Roman Mokrzan
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: Indie Android developer.
+github_username: Romamok
+facebook_username: roman.mokrzan.1
+linkedin_username: sigma-foundation
 ---
 
