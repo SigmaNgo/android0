@@ -4,8 +4,8 @@ layout: post
 title: Ucz się podglądając innych
 subtitle: Gdzie znaleźć kod źródłowy istniejących apek na Androida
 description: Lista apek z udostępnionym kodem źródłowym
-image: http://www.quickmeme.com/img/56/56191187e050f357d60b1379538189626318050ed48b2227a3f5b5de76eb8a07.jpg
-optimized_image: http://www.quickmeme.com/img/56/56191187e050f357d60b1379538189626318050ed48b2227a3f5b5de76eb8a07.jpg
+image: https://res.cloudinary.com/romanmokrzan/image/upload/v1585222160/ksiazki_duze_zckcnz.jpg
+optimized_image: https://res.cloudinary.com/romanmokrzan/image/upload/v1585222160/ksiazk_male_uzhhvv.jpg
 category: Nauka
 tags:
   - open source
